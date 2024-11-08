@@ -1,1 +1,3 @@
-Python/HTML/JS/CSS/
+MSc AI
+
+cat
