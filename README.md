@@ -1,5 +1,3 @@
 MSc AI
 
-cat
-
-I like competitive programming and biological artificial intelligence
+You can contact me by email at: sean[@]liquid.tf
